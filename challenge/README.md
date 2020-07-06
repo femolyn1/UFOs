@@ -8,7 +8,7 @@ The following tools were used in developing this program:
 3. Bootstrap features
 
 # Recommendation for future development
-It would be nice to write a script to allow users to simply select their options from a dropdown list. This would allow for a beteer customer experience.
+It would be nice to write a script to allow users to simply select their options from a dropdown list. This would allow for a more satisfying customer experience.
 
    
 # Resources: 
